@@ -3,8 +3,7 @@
   "description": "Xcode safety guards for Claude: enforces timeout on xcodebuild commands",
   "version": "1.0.0",
   "author": {
-    "name": "MechanicalTyler",
-    "email": ""
+    "name": "MechanicalTyler"
   },
   "license": "MIT",
   "keywords": ["guardrails", "safety", "xcode", "ios", "macos", "hooks", "timeout"]
